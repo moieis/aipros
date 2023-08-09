@@ -1,0 +1,220 @@
+  ##################192.168.1.193####################
+on this user agent ---> PC / Windows 10 / Chrome 115.0.0<-----
+________info user lang---->en-US<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x000002744B8AE150>, 'user_language': 'en-US', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.193', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=index&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.193'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.14####################
+on this user agent ---> iPhone / iOS 17.0 / Chrome Mobile iOS 115.0.5790<-----
+________info user lang---->en-GB<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x000001D6D919FA50>, 'user_language': 'en-GB', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.14', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=index&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.14'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.14####################
+on this user agent ---> iPhone / iOS 17.0 / Chrome Mobile iOS 115.0.5790<-----
+________info user lang---->en-GB<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x000002362AFE3650>, 'user_language': 'en-GB', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.14', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=index&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.14'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.193####################
+on this user agent ---> PC / Windows 10 / Chrome 115.0.0<-----
+________info user lang---->en-US<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x0000023C41B02B50>, 'user_language': 'en-US', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.193', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=index&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.193'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.193####################
+on this user agent ---> PC / Windows 10 / Chrome 115.0.0<-----
+________info user lang---->en-US<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x00000256A88BF4D0>, 'user_language': 'en-US', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.193', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=index&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.193'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.14####################
+on this user agent ---> iPhone / iOS 17.0 / Chrome Mobile iOS 115.0.5790<-----
+________info user lang---->en-GB<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x000001A7516424D0>, 'user_language': 'en-GB', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.14', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.14'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.14####################
+on this user agent ---> iPhone / iOS 17.0 / Chrome Mobile iOS 115.0.5790<-----
+________info user lang---->en-GB<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x000001A752DC4BD0>, 'user_language': 'en-GB', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.14', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.14'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.14####################
+on this user agent ---> iPhone / iOS 17.0 / Chrome Mobile iOS 115.0.5790<-----
+________info user lang---->en-GB<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x000001A43C231C90>, 'user_language': 'en-GB', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.14', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.14'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.14####################
+on this user agent ---> iPhone / iOS 17.0 / Chrome Mobile iOS 115.0.5790<-----
+________info user lang---->en-GB<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x000001F9A45C8A10>, 'user_language': 'en-GB', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.14', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.14'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.193####################
+on this user agent ---> PC / Windows 10 / Chrome 115.0.0<-----
+________info user lang---->en-US<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x000001F9A4510BD0>, 'user_language': 'en-US', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.193', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.193'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.193####################
+on this user agent ---> PC / Windows 10 / Chrome 115.0.0<-----
+________info user lang---->en-US<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x000001F9A492C7D0>, 'user_language': 'en-US', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.193', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.193'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.14####################
+on this user agent ---> iPhone / iOS 17.0 / Chrome Mobile iOS 115.0.5790<-----
+________info user lang---->en-GB<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x0000021D7B8023D0>, 'user_language': 'en-GB', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.14', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.14'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.14####################
+on this user agent ---> iPhone / iOS 17.0 / Chrome Mobile iOS 115.0.5790<-----
+________info user lang---->en-GB<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x0000028B2905EE10>, 'user_language': 'en-GB', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.14', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.14'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.14####################
+on this user agent ---> iPhone / iOS 17.0 / Chrome Mobile iOS 115.0.5790<-----
+________info user lang---->en-GB<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x0000028B2905DA90>, 'user_language': 'en-GB', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.14', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.14'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.14####################
+on this user agent ---> iPhone / iOS 17.0 / Chrome Mobile iOS 115.0.5790<-----
+________info user lang---->en-GB<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x0000016AF226F390>, 'user_language': 'en-GB', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.14', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.14'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.14####################
+on this user agent ---> iPhone / iOS 17.0 / Chrome Mobile iOS 115.0.5790<-----
+________info user lang---->en-GB<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x0000016AF2041590>, 'user_language': 'en-GB', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.14', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.14'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.193####################
+on this user agent ---> PC / Windows 10 / Chrome 115.0.0<-----
+________info user lang---->en-US<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x00000157B267D810>, 'user_language': 'en-US', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.193', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.193'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.193####################
+on this user agent ---> PC / Windows 10 / Chrome 115.0.0<-----
+________info user lang---->en-US<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x00000157B2409750>, 'user_language': 'en-US', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.193', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.193'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.193####################
+on this user agent ---> PC / Windows 10 / Chrome 115.0.0<-----
+________info user lang---->en-US<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x00000157B37B9B90>, 'user_language': 'en-US', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.193', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.193'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.14####################
+on this user agent ---> iPhone / iOS 17.0 / Chrome Mobile iOS 115.0.5790<-----
+________info user lang---->en-GB<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x00000157B3BF4D90>, 'user_language': 'en-GB', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.14', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.14'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.14####################
+on this user agent ---> iPhone / iOS 17.0 / Chrome Mobile iOS 115.0.5790<-----
+________info user lang---->en-GB<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x00000157B3BD1250>, 'user_language': 'en-GB', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.14', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.14'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.193####################
+on this user agent ---> PC / Windows 10 / Chrome 115.0.0<-----
+________info user lang---->en-US<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x00000157B3BEC950>, 'user_language': 'en-US', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.193', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.193'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.193####################
+on this user agent ---> PC / Windows 10 / Chrome 115.0.0<-----
+________info user lang---->en-US<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x00000157B3BECF50>, 'user_language': 'en-US', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.193', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.193'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.193####################
+on this user agent ---> PC / Windows 10 / Chrome 115.0.0<-----
+________info user lang---->en-US<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x00000164368C5C90>, 'user_language': 'en-US', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.193', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=index&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.193'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.14####################
+on this user agent ---> iPhone / iOS 17.0 / Chrome Mobile iOS 115.0.5790<-----
+________info user lang---->en-GB<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x000001E15D9586D0>, 'user_language': 'en-GB', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.14', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=index&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.14'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.14####################
+on this user agent ---> iPhone / iOS 17.0 / Chrome Mobile iOS 115.0.5790<-----
+________info user lang---->en-GB<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x000001E15EDBF250>, 'user_language': 'en-GB', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.14', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=index&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.14'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.14####################
+on this user agent ---> iPhone / iOS 17.0 / Chrome Mobile iOS 115.0.5790<-----
+________info user lang---->en-GB<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x000001BAAC7BB5D0>, 'user_language': 'en-GB', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.14', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.14'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.14####################
+on this user agent ---> iPhone / iOS 17.0 / Chrome Mobile iOS 115.0.5790<-----
+________info user lang---->en-GB<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x000001BAAB032550>, 'user_language': 'en-GB', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.14', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.14'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.193####################
+on this user agent ---> PC / Windows 10 / Chrome 115.0.0<-----
+________info user lang---->en-US<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x000001F4CD3F2810>, 'user_language': 'en-US', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.193', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=index&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.193'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.193####################
+on this user agent ---> PC / Windows 10 / Chrome 115.0.0<-----
+________info user lang---->en-US<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x000001F96EF4A950>, 'user_language': 'en-US', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.193', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.193'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.193####################
+on this user agent ---> PC / Windows 10 / Chrome 115.0.0<-----
+________info user lang---->en-US<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x000001F9703BAED0>, 'user_language': 'en-US', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.193', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.193'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.14####################
+on this user agent ---> iPhone / iOS 17.0 / Chrome Mobile iOS 115.0.5790<-----
+________info user lang---->en-GB<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x0000018CA8612590>, 'user_language': 'en-GB', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.14', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=index&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.14'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.14####################
+on this user agent ---> iPhone / iOS 17.0 / Chrome Mobile iOS 115.0.5790<-----
+________info user lang---->en-GB<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x0000018CA863FC50>, 'user_language': 'en-GB', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.14', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.14'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.14####################
+on this user agent ---> iPhone / iOS 17.0 / Mobile Safari 17.0<-----
+________info user lang---->en-GB<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x0000018CA9BBB450>, 'user_language': 'en-GB', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.14', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.14'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.14####################
+on this user agent ---> iPhone / iOS 17.0 / Mobile Safari 17.0<-----
+________info user lang---->en-GB<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x0000018CA9EC7990>, 'user_language': 'en-GB', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.14', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.14'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.14####################
+on this user agent ---> iPhone / iOS 17.0 / Chrome Mobile iOS 115.0.5790<-----
+________info user lang---->en-GB<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x00000189A5020B10>, 'user_language': 'en-GB', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.14', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.14'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.193####################
+on this user agent ---> PC / Windows 10 / Chrome 115.0.0<-----
+________info user lang---->en-US<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x0000019AB9334990>, 'user_language': 'en-US', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.193', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=index&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.193'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.14####################
+on this user agent ---> iPhone / iOS 17.0 / Chrome Mobile iOS 115.0.5790<-----
+________info user lang---->en-GB<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x000002A37D9074D0>, 'user_language': 'en-GB', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.14', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.14'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.14####################
+on this user agent ---> iPhone / iOS 17.0 / Chrome Mobile iOS 115.0.5790<-----
+________info user lang---->en-GB<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x000002794F421390>, 'user_language': 'en-GB', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.14', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.14'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.193####################
+on this user agent ---> PC / Windows 10 / Chrome 115.0.0<-----
+________info user lang---->en-US<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x0000025FEB96DF50>, 'user_language': 'en-US', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.193', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.193'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.14####################
+on this user agent ---> iPhone / iOS 17.0 / Chrome Mobile iOS 115.0.5790<-----
+________info user lang---->en-GB<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x000001911CAE7ED0>, 'user_language': 'en-GB', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.14', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.14'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.193####################
+on this user agent ---> PC / Windows 10 / Chrome 115.0.0<-----
+________info user lang---->en-US<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x000002086A58EA50>, 'user_language': 'en-US', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.193', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=index&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.193'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.193####################
+on this user agent ---> PC / Windows 10 / Chrome 115.0.0<-----
+________info user lang---->en-US<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x0000021C87115010>, 'user_language': 'en-US', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.193', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.193'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================
+  ##################192.168.1.193####################
+on this user agent ---> PC / Windows 10 / Chrome 115.0.0<-----
+________info user lang---->en-US<------________________
+*---->{'user_agent': <user_agents.parsers.UserAgent object at 0x000001976B769750>, 'user_language': 'en-US', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.193', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=priffile&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.193'), 'backend': 'tornado', 'protocol': 'websocket'}
+================================================================================

@@ -1,0 +1,6 @@
+----------{'user_agent': <user_agents.parsers.UserAgent object at 0x0000018884DCA750>, 'user_language': 'en-GB', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.14', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.14'), 'backend': 'tornado', 'protocol': 'websocket'}----------
+============10============
+============data science============
+----------{'user_agent': <user_agents.parsers.UserAgent object at 0x00000157B2409750>, 'user_language': 'en-US', 'server_host': '192.168.1.193:1232', 'origin': 'http://192.168.1.193:1232', 'user_ip': '192.168.1.193', 'request': HTTPServerRequest(protocol='http', host='192.168.1.193:1232', method='GET', uri='/?app=moidfa&session=NEW', version='HTTP/1.1', remote_ip='192.168.1.193'), 'backend': 'tornado', 'protocol': 'websocket'}----------
+============10============
+============data science============

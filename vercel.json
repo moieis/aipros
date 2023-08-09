@@ -1,0 +1,6 @@
+"builds":[
+{
+"src": "app.py --port=$PORT --http",
+"use": "@vercel/python"
+}
+]
